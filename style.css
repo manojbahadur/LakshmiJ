@@ -4,6 +4,7 @@ body {
   height: 100vh;
   display: grid;
   place-items: center;
+  background-image: url('lakshmi.webp');
 }
 body .drawBox {
   position: relative;
