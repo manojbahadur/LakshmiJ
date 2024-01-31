@@ -24,8 +24,8 @@ body .drawBox .smallHearts .smallHeart {
   background-image: url('lakshmi.webp');
   background-size: 100%;
   position: absolute;
-  height: 35px;
-  width: 35px;
+  height: 30px;
+  width: 30px;
   opacity: 0;
 }
 body .drawBox .smallHearts .smallHeart:nth-child(1) {
